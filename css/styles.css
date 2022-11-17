@@ -454,6 +454,9 @@ body {
     .registration-info {
         text-align: left;
     }
+    .registration-expiration {
+        text-align: left;
+    }
 }
 
 /* Agenda */
